@@ -1,6 +1,6 @@
 # Heart-Disease-Analysis-and-Prediction
 
-See project site at [byte7.github.io](http://byte7.github.io/projects/heart_disease_analysis/index.html) for a description of the results.
+
 
 Jupyter notebooks and files used to generate the results and plots for the project :-
 
